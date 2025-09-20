@@ -229,8 +229,8 @@ h6 { font-size: 16px; }
 	        transition: all .3s ease;
 }
 .arlo_tm_topbar.animate .menu ul li a{color: #000;}
-.arlo_tm_topbar .menu ul li.current a{color: #e65f78;}
-.arlo_tm_topbar .menu ul li a:hover{color: #e65f78;}
+.arlo_tm_topbar .menu ul li.current a{color: #05542c;}
+.arlo_tm_topbar .menu ul li a:hover{color: #05542c;}
 
 /*---------------------------------------------------*/
 /*	03) ARLO MOBILE MENU
@@ -478,7 +478,7 @@ h6 { font-size: 16px; }
 	font-family: "Montserrat";
 }
 .arlo_tm_hero .name_holder h3 span{
-	color: #e65f78;
+	color: #05542c;
 }
 .arlo_tm_hero .text_typing p{
 	color: #fff;
@@ -552,7 +552,7 @@ h6 { font-size: 16px; }
 	float: left;
 }
 .arlo_tm_main_title span{
-	color: #e65f78;
+	color: #05542c;
 	display: inline-block;
 	font-family: "Poppins";
 	font-weight: 500;
@@ -608,13 +608,13 @@ h6 { font-size: 16px; }
 	font-size: 20px;
 	font-weight: 600;
 }
-.arlo_tm_about .right .about_title h3 .arlo_tm_animation_text_word{color: #e65f78;}
+.arlo_tm_about .right .about_title h3 .arlo_tm_animation_text_word{color: #05542c;}
 .arlo_tm_about .right .text{
 	margin-bottom: 23px;
 	float: left;
 }
 .arlo_tm_about .right .text span{
-	color: #e65f78;
+	color: #05542c;
 	font-style: italic;
 }
 .arlo_tm_about .about_short_contact_wrap{
@@ -676,7 +676,7 @@ h6 { font-size: 16px; }
 	top: 6px;
 	width: 17px;
 	height: 17px;
-	color: #e65f78;
+	color: #05542c;
 }
 .arlo_tm_button{
 	width: 100%;
@@ -687,7 +687,7 @@ h6 { font-size: 16px; }
 .arlo_tm_button a{
 	text-decoration: none;
 	color: #fff;
-	background-color: #e65f78;
+	background-color: #05542c;
 	display: inline-block;
 	padding: 12px 45px;
 	font-family: "Poppins";
@@ -761,7 +761,7 @@ h6 { font-size: 16px; }
 .arlo_tm_services .service_inner ul li .inner .svg{
 	width: 50px;
 	height: 50px;
-	color: #e65f78;
+	color: #05542c;
 	margin-bottom: 17px;
 }
 .arlo_tm_services .service_inner ul li .inner h3{
@@ -863,8 +863,8 @@ h6 { font-size: 16px; }
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_portfolio .portfolio_filter ul li a.current{color: #e65f78;}
-.arlo_tm_portfolio .portfolio_filter ul li a:hover{color: #e65f78;}
+.arlo_tm_portfolio .portfolio_filter ul li a.current{color: #05542c;}
+.arlo_tm_portfolio .portfolio_filter ul li a:hover{color: #05542c;}
 .arlo_tm_portfolio .portfolio_list{
 	width: 100%;
 	height: auto;
@@ -1097,7 +1097,7 @@ h6 { font-size: 16px; }
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_news .news_list ul li .details .title a:hover{color: #e65f78;}
+.arlo_tm_news .news_list ul li .details .title a:hover{color: #05542c;}
 .arlo_tm_news .news_list ul li .details .date{
 	text-transform: uppercase;
 	font-family: "Poppins";
@@ -1115,7 +1115,7 @@ h6 { font-size: 16px; }
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_news .news_list ul li .details .date a:hover{color: #e65f78;}
+.arlo_tm_news .news_list ul li .details .date a:hover{color: #05542c;}
 .arlo_tm_news .news_list ul li .details .date span{
 	position: relative;
 	margin-left: 11px;
@@ -1249,7 +1249,7 @@ body.modal{
 .arlo_tm_modalbox_news .description blockquote{
 	font-style: italic;
 	color: #000;
-	border-left: 2px solid #e65f78;
+	border-left: 2px solid #05542c;
 	padding-left: 20px;
 	margin-bottom: 15px;
 }
@@ -1293,7 +1293,7 @@ body.modal{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
-.arlo_tm_modalbox_news .date a:hover{color: #e65f78;}
+.arlo_tm_modalbox_news .date a:hover{color: #05542c;}
 .arlo_tm_modalbox_news .date span{
 	position: relative;
     margin-left: 11px;
@@ -1531,7 +1531,7 @@ body.modal{
   width: 6px;
   height: 6px;
   z-index: 100;
-  background-color: #e65f78;
+  background-color: #05542c;
   -webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
   transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
 }
@@ -1540,7 +1540,7 @@ body.modal{
   margin-top: -40px;
   width: 80px;
   height: 80px;
-  background-color: #e65f78;
+  background-color: #05542c;
   opacity: .3;
 }
 .cursor-outer {
@@ -1548,7 +1548,7 @@ body.modal{
   margin-top: -15px;
   width: 30px;
   height: 30px;
-  border: 2px solid #e65f78;
+  border: 2px solid #05542c;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 100;
