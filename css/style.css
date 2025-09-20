@@ -878,7 +878,7 @@ h6 { font-size: 16px; }
 .arlo_tm_portfolio .portfolio_list ul li{
 	margin: 0px 0px 50px 0px;
 	float: left;
-	width: 33.3333%;
+	width: 100%;
 	padding-left: 50px;
 }
 .arlo_tm_portfolio .portfolio_list ul li .inner{
@@ -891,7 +891,7 @@ h6 { font-size: 16px; }
 }
 .arlo_tm_portfolio .portfolio_list ul li .inner img{
 	opacity: 0;
-	min-width: 100%;
+	min-width: 25%;
 }
 .arlo_tm_portfolio .portfolio_list ul li .inner .main_image{
 	position: absolute;
@@ -900,8 +900,8 @@ h6 { font-size: 16px; }
 	left: 0px;
 	right: 0px;
 	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
+	background-position: :left;
+	background-size: 250pb 250px;
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -1458,6 +1458,27 @@ body.modal{
 	float: left;
 	background-color: #000;
 	padding: 80px 0px;
+}
+.arlo_tm_social{
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+	padding: 0px 0px;
+}
+.arlo_tm_social .inner{
+	width: 100%;
+	height: auto;
+	clear: both;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	display:block;
+}
+.arlo_tm_social .inner .svg{
+	width: 50px;
+	height: 50px;
+	margin-right:50px;
 }
 .arlo_tm_copyright .inner{
 	width: 100%;
