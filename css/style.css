@@ -454,7 +454,7 @@ h6 { font-size: 16px; }
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    border-radius: 100%;
+    /* border-radius: 100%; */
 }
 .arlo_tm_hero .image_wrap .main:before{
 	position: absolute;
@@ -564,7 +564,7 @@ h6 { font-size: 16px; }
 	font-weight: 800;
 }
 .arlo_tm_about .left{
-	width: 35%;
+	width: 50%;
 	float: left;
 	height: auto;
 }
@@ -878,7 +878,7 @@ h6 { font-size: 16px; }
 .arlo_tm_portfolio .portfolio_list ul li{
 	margin: 0px 0px 50px 0px;
 	float: left;
-	width: 100%;
+	width: 50%;
 	padding-left: 50px;
 }
 .arlo_tm_portfolio .portfolio_list ul li .inner{
@@ -892,6 +892,11 @@ h6 { font-size: 16px; }
 .arlo_tm_portfolio .portfolio_list ul li .inner img{
 	opacity: 0;
 	min-width: 25%;
+}
+.arlo_tm_portfolio .portfolio_list ul li .inner video{
+	opacity: 0;
+	min-width: 25%;
+	overflow:hidden;
 }
 .arlo_tm_portfolio .portfolio_list ul li .inner .main_image{
 	position: absolute;
