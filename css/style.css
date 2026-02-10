@@ -2150,7 +2150,9 @@ body.dark .arlo_tm_settings .cursor li .svg,
 	.arlo_tm_about .about_inner{flex-direction: column;}
 	.arlo_tm_about .left{width: 100%;margin-bottom: 70px;}
 	.arlo_tm_about .right{width: 100%; padding-left: 0px;}
-	.arlo_tm_services .service_inner ul li{width: 50%;}
+	.arlo_tm_services .service_inner {flex-direction: column;}
+	.arlo_tm_services .service_inner .multi ul li{padding-left: 50px;};
+	.arlo_tm_services .service_inner .single ul li{width: 50%;}
 	.arlo_tm_portfolio .portfolio_list ul li{width: 50%;}
 	.arlo_tm_news .news_list ul li{width: 50%;}
 	.arlo_tm_contact .desc{max-width: 100%;}
@@ -2166,8 +2168,12 @@ body.dark .arlo_tm_settings .cursor li .svg,
 	.arlo_tm_hero .name_holder h3{font-size: 35px;}
 	.arlo_tm_hero .text_typing p{font-size: 17px;}
 	.arlo_tm_about .about_short_contact_wrap ul li{width: 100%;}
-	.arlo_tm_services .service_inner ul{margin: 0px;}
-	.arlo_tm_services .service_inner ul li{width: 100%;padding-left: 0px;}
+	.arlo_tm_services .service_inner .single {width: 100%;}
+	.arlo_tm_services .service_inner .multi {width: 100%;}
+	.arlo_tm_services .service_inner .single ul{margin: 0px;flex-direction: column;}
+	.arlo_tm_services .service_inner .multi ul{margin: 0px; width: 100%;}
+	.arlo_tm_services .service_inner .single ul li{width: 100%;padding-left: 0px;}
+	.arlo_tm_services .service_inner .multi ul li{width: 100%;padding-left: 0px;}
 	.arlo_tm_portfolio .portfolio_list ul{margin: 0px;}
 	.arlo_tm_portfolio .portfolio_list ul li{width: 100%;padding-left: 0px;}
 	.arlo_tm_news .news_list ul{margin: 0px;}
